@@ -1,0 +1,20 @@
+{
+    "name": "GameFrameX.Setting.WeChatMiniGame.Runtime",
+    "rootNamespace": "GameFrameX.Setting.Runtime",
+    "references": [
+        "GameFrameX.Setting.Runtime",
+        "Wx"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_WEBGL",
+        "ENABLE_WECHAT_MINI_GAME"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
