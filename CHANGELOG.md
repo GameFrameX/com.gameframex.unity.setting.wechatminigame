@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/compare/1.0.1...1.1.0) (2026-11-10)
+
+
+### Features
+
+* **setting.wechatminigame:** 新增微信小游戏存档文件存储后端 ([72e1114](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/commit/72e111471b6c295f0548a200475c01c32c91788a))
+
 ## [1.0.1](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/compare/1.0.0...1.0.1) (2026-11-10)
 
 
