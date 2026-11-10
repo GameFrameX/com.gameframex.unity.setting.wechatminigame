@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/compare/1.0.0...1.0.1) (2026-11-10)
+
+
+### Bug Fixes
+
+* **setting.wechatminigame:** 添加完整 link.xml 防代码裁剪保护 ([f46e5df](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/commit/f46e5df1783ed382e74b1347f6b68afc820afcfe))
+
 # 1.0.0 (2026-10-15)
 
 
