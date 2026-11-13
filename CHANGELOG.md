@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/compare/1.1.0...1.1.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* **setting.wechatminigame:** 存档目录已存在时 MkdirSync 平台报错 ([d3944a2](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/commit/d3944a2d3aabff7ad477a2b8ecfbd2f7fe8acc8f))
+
 # [1.1.0](https://github.com/gameframex/com.gameframex.unity.setting.wechatminigame/compare/1.0.1...1.1.0) (2026-11-10)
 
 
